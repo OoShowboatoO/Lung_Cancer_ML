@@ -1,4 +1,4 @@
-# Lung_Cancer_ML
+# Predictive Analytics for Early Lung Cancer Detection
 
 Our project, titled "Predictive Analytics for Early Lung Cancer Detection," aimed to develop machine learning models to predict lung cancer based on various patient-specific factors such as demographics, symptoms, and smoking history. The primary motivation was to create an accessible, cost-effective diagnostic alternative to traditional methods like CT imaging, which are expensive and often detect cancer at later stages.
 
